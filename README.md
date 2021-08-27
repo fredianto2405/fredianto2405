@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fredianto2405
+- 👀 I’m interested in Music and Programming
+- 🌱 I’m currently learning AI and ML
